@@ -25,9 +25,9 @@ public class Program {
 
 
 
-        System.out.println("JSON: " + ToDoListApp.loadStudentsFromFile(FILE_JSON));
-        System.out.println("BIN: " + ToDoListApp.loadStudentsFromFile(FILE_BIN));
-        System.out.println("XML: " + ToDoListApp.loadStudentsFromFile(FILE_XML));
+        System.out.println(" JSON: " + ToDoListApp.loadStudentsFromFile(FILE_JSON));
+        System.out.println(" BIN: " + ToDoListApp.loadStudentsFromFile(FILE_BIN));
+        System.out.println(" XML: " + ToDoListApp.loadStudentsFromFile(FILE_XML));
 
 
 
